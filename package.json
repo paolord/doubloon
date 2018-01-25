@@ -1,0 +1,19 @@
+{
+  "name": "doubloon",
+  "version": "0.1.0",
+  "description": "Learning cryptocurrency tech with the Node.js stack. Named after an old spanish coin. NOT FOR TRADING.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paolord/doubloon.git"
+  },
+  "author": "angelopaolo.obispo@gmail.com",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/paolord/doubloon/issues"
+  },
+  "homepage": "https://github.com/paolord/doubloon#readme"
+}
